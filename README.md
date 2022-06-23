@@ -1,5 +1,5 @@
 # Neardoor
-The neardoor backend API for neardoor, the food-delivery app for low-density areas.
+The neardoor backend API, the food-delivery app for low-density areas.
 
 ## Goal
 The goal of this project was to learn MongoDB and NextJS. The project is a backend API containing multiple entities related to
